@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">முதல் கோட்லின்</string>
+    <string name="greeting">வணக்கம்!</string>
+    <string name="namee">பெயரை உள்ளிடுக : </string>
+    <string name="tamil">தமிழ்</string>
+    <string name="english">ஆங்கிலம்</string>
+    <string name="hint">பெயர்</string>
+</resources>
+
+<resources>
+    <string name="app_name">Activity 3</string>
+    <string name="tamil">tamil</string>
+    <string name="english">english</string>
+    <string name="greeting">greeting</string>
+    <string name="name">Name</string>
+    <string name="namee">Name prompt</string>
+</resources>
